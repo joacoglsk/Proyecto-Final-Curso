@@ -4,26 +4,26 @@ import Slider from "react-slick";
 const TestimonialData = [
   {
     id: 1,
-    name: "Dilshad",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+    name: "Eugenia",
+    text: "Me encanta este lugar, el ambiente es acogedor y el café siempre está preparado a la perfección. La atención del personal es excepcional, siempre con una sonrisa y dispuestos a ayudar. Definitivamente volveré pronto.",
     img: "https://picsum.photos/101/101",
   },
   {
     id: 2,
-    name: "Sabir ali",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+    name: "María",
+    text: "La cafetería Amanecer es mi lugar favorito para empezar el día. El aroma del café recién hecho y los deliciosos panecillos son inigualables. Además, el servicio es rápido y amable.",
     img: "https://picsum.photos/102/102",
   },
   {
     id: 3,
-    name: "Dipankar kumar",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+    name: "Jorge",
+    text: "Un rincón mágico en la ciudad, perfecto para relajarse o trabajar. Los capuchinos son increíbles y tienen una gran variedad de postres. El lugar es siempre limpio y bien decorado.",
     img: "https://picsum.photos/104/104",
   },
   {
     id: 5,
-    name: "Satya Narayan",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+    name: "Santino",
+    text: "Probé su latte especial y fue una experiencia increíble. El personal fue muy atento y amable. Amanecer tiene un ambiente tranquilo que lo hace ideal para disfrutar de una buena lectura.",
     img: "https://picsum.photos/103/103",
   },
 ];
@@ -76,7 +76,7 @@ const Testimonials = () => {
             data-aos="fade-up"
             className="text-center text-4xl font-bold font-cursive"
           >
-            Testimonials
+            Reviews de nuestros clientes!
           </h1>
         </div>
 

@@ -8,11 +8,11 @@ const FooterLinks = [
     link: "/#",
   },
   {
-    title: "About",
+    title: "Nosotros",
     link: "/#about",
   },
   {
-    title: "Contact",
+    title: "Contacto",
     link: "/#contact",
   },
   {
@@ -41,18 +41,17 @@ const Footer = () => {
               className="font-semibold tracking-widest text-2xl sm:text-3xl font-cursive
 "
             >
-              Coffee Cafe
+              Cafe Amanecer
             </a>
             <p className="  pt-4">
-              Crafted Coffee, Cozy Vibes, Unforgettable Moments – Your Perfect
-              Espresso Escape
+              Cafe de Especialidad, Ambiente Familiar, Momentos Inolvidables – Tu Escape Perfecto!
             </p>
             <a
               href="https://www.youtube.com/channel/UC1H-a1MKEFXRiFlGNLcy7gQ"
               target="_blank"
               className="inline-block bg-[#3d2517] py-2 px-4 mt-5 text-sm rounded-full"
             >
-              Visit our YouTube Channel
+              Visita nuetsro canal de Youtube
             </a>
           </div>
 
@@ -60,25 +59,16 @@ const Footer = () => {
           <div className="col-span-2 grid grid-cols-2 sm:grid-cols-3 md:pl-10">
             <div className="py-8 px-4">
               <h1 className="text-xl font-semibold sm:text-left mb-3">
-                Important Links
+                
               </h1>
               <ul className="space-y-3">
-                {FooterLinks.map((data, index) => (
-                  <li key={index}>
-                    <a
-                      href={data.link}
-                      className="inline-block hover:scale-105 duration-200"
-                    >
-                      {data.title}
-                    </a>
-                  </li>
-                ))}
+                
               </ul>
             </div>
             {/* second col links */}
             <div className="py-8 px-4">
               <h1 className="text-xl font-semibold sm:text-left mb-3">
-                Quick Links
+                Links Importantes
               </h1>
               <ul className="space-y-3">
                 {FooterLinks.map((data, index) => (
@@ -100,8 +90,8 @@ const Footer = () => {
                 Address
               </h1>
               <div>
-                <p className="mb-3">Noida , Uttar Pradesh</p>
-                <p>+91 1234567890</p>
+                <p className="mb-3">San Marín de los Andes, Neuquén</p>
+                <p>+54 123456789</p>
 
                 {/* social links */}
                 <div className="flex items-center gap-3 mt-6">

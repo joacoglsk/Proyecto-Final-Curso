@@ -36,7 +36,7 @@ const Banner = () => {
                   data-aos="fade-up"
                   className="text-3xl sm:text-4xl font-bold font-cursive"
                 >
-                  Premium Blend Café
+                  Cafe mezcla Premium
                 </h1>
                 <p
                   data-aos="fade-up"
@@ -76,7 +76,7 @@ const Banner = () => {
                       Amante del te
                     </h1>
                     <p className="text-sm text-gray-500">
-                    Acá en "no se que poner" no solo celebramos el café, sino también el arte del té. Con una selección cuidadosamente curada, ofrecemos una variedad de infusiones que van desde los clásicos hasta mezclas exclusivas. Cada taza está diseñada para brindar una experiencia relajante, reconfortante y llena de sabor, perfecta para quienes buscan un momento de tranquilidad con una bebida suave y aromática.
+                    En "Amanecer" no solo celebramos el café, sino también el arte del té. Con una selección cuidadosamente curada, ofrecemos una variedad de infusiones que van desde los clásicos hasta mezclas exclusivas. Cada taza está diseñada para brindar una experiencia relajante, reconfortante y llena de sabor, perfecta para quienes buscan un momento de tranquilidad con una bebida suave y aromática.
                     </p>
                   </div>
                 </div>
