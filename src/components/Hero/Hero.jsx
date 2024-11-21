@@ -14,15 +14,15 @@ const Hero = () => {
                 data-aos-once="true"
                 className="text-5xl sm:text-6xl lg:text-7xl font-bold"
               >
-                We serve the richest{" "}
+                Servimos el mejor{" "}
                 <span
                   data-aos="zoom-out"
                   data-aos-delay="300"
                   class="bg-clip-text text-transparent bg-gradient-to-b from-primary to-primary/90 font-cursive"
                 >
-                  Coffee
+                  Café
                 </span>{" "}
-                in the city
+                del pueblo
               </h1>
               <div data-aos="fade-up" data-aos-delay="400">
                 <button className="bg-gradient-to-r from-primary to-secondary border-2 border-primary hover:scale-105 duration-200 text-white py-2 px-4 rounded-full">

@@ -36,22 +36,20 @@ const Banner = () => {
                   data-aos="fade-up"
                   className="text-3xl sm:text-4xl font-bold font-cursive"
                 >
-                  Premium Blend Coffee
+                  Premium Blend Café
                 </h1>
                 <p
                   data-aos="fade-up"
                   className="text-sm text-gray-500 tracking-wide leading-5"
                 >
-                  Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                  Eaque reiciendis inventore iste ratione ex alias quis magni at
-                  optio
+                  Una mezcla exclusiva de granos seleccionados, que captura la esencia de los mejores cafés del mundo. Su sabor equilibrado y profundo, con toques sutiles de cacao y frutos secos, ofrece una experiencia única, perfecta para quienes buscan calidad en cada sorbo. En este refugio de café, cada taza cuenta una historia de pasión, dedicación y el arte del buen café.
                 </p>
 
                 <div className="grid grid-cols-2 gap-6">
                   <div className="space-y-5">
                     <div data-aos="fade-up" className="flex items-center gap-3">
                       <GrSecure className="text-2xl h-12 w-12 shadow-sm p-3 rounded-full bg-red-100 " />
-                      <span>Premium Coffee</span>
+                      <span>Café Premium</span>
                     </div>
                     <div
                       data-aos="fade-up"
@@ -59,7 +57,7 @@ const Banner = () => {
                       className="flex items-center gap-3"
                     >
                       <IoFastFood className="text-2xl h-12 w-12 shadow-sm p-3 rounded-full bg-orange-100 " />
-                      <span>Hot Coffee</span>
+                      <span>Café Caliente</span>
                     </div>
                     <div
                       data-aos="fade-up"
@@ -67,7 +65,7 @@ const Banner = () => {
                       className="flex items-center gap-3"
                     >
                       <GiFoodTruck className="text-4xl h-12 w-12 shadow-sm p-3 rounded-full bg-yellow-100" />
-                      <span>Cold Coffee</span>
+                      <span>Café Helado</span>
                     </div>
                   </div>
                   <div
@@ -75,12 +73,10 @@ const Banner = () => {
                     className="border-l-4 border-primary/50 pl-6 space-y-2"
                   >
                     <h1 className="text-2xl font-semibold font-cursive ">
-                      Tea Lover
+                      Amante del te
                     </h1>
                     <p className="text-sm text-gray-500">
-                      Much like writing code, brewing the perfect cup of tea
-                      requires patience, precision, and a dash of passion to
-                      create a comforting blend of flavors.
+                    Acá en "no se que poner" no solo celebramos el café, sino también el arte del té. Con una selección cuidadosamente curada, ofrecemos una variedad de infusiones que van desde los clásicos hasta mezclas exclusivas. Cada taza está diseñada para brindar una experiencia relajante, reconfortante y llena de sabor, perfecta para quienes buscan un momento de tranquilidad con una bebida suave y aromática.
                     </p>
                   </div>
                 </div>

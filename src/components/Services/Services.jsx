@@ -6,7 +6,7 @@ const ServicesData = [
     img: Img2,
     name: "Espresso",
     description:
-      "Lorem ipsum dolor sit amet ipsum dolor sit ametipsum dolor sit amet ipsum dolor sit amet.",
+      "Un espresso con cuerpo, de sabor intenso y matices ligeramente afrutados, que se disfruta en cada sorbo. Su crema densa y su final suave lo convierten en una experiencia única, ideal para quienes buscan un café de calidad.",
     aosDelay: "100",
   },
   {
@@ -14,7 +14,7 @@ const ServicesData = [
     img: Img2,
     name: "Americano",
     description:
-      "Lorem ipsum dolor sit amet ipsum dolor sit ametipsum dolor sit amet ipsum dolor sit amet",
+      "Un americano suave y aromático, con un equilibrio perfecto entre cuerpo y sabor, ideal para disfrutar con un toque de leche o solo.",
     aosDelay: "300",
   },
   {
@@ -22,7 +22,7 @@ const ServicesData = [
     img: Img2,
     name: "Cappuccino",
     description:
-      "Lorem ipsum dolor sit amet ipsum dolor sit ametipsum dolor sit amet ipsum dolor sit amet",
+      "Cappuccino: Una mezcla perfecta de espresso y leche espumosa, que ofrece un sabor intenso con un toque suave y un final reconfortante.",
     aosDelay: "500",
   },
 ];

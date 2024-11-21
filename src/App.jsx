@@ -26,7 +26,6 @@ const App = () => {
       <Hero />
       <Services />
       <Banner />
-      <AppStore />
       <Testimonials />
       <Footer />
     </div>
